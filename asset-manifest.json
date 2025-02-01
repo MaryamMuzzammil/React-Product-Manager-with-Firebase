@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Product-Manager-with-Firebase/static/css/main.482a6fc5.css",
+    "main.js": "/React-Product-Manager-with-Firebase/static/js/main.be0ba1d7.js",
+    "index.html": "/React-Product-Manager-with-Firebase/index.html",
+    "main.482a6fc5.css.map": "/React-Product-Manager-with-Firebase/static/css/main.482a6fc5.css.map",
+    "main.be0ba1d7.js.map": "/React-Product-Manager-with-Firebase/static/js/main.be0ba1d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.482a6fc5.css",
+    "static/js/main.be0ba1d7.js"
+  ]
+}
